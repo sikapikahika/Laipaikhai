@@ -19,7 +19,7 @@
     ]
   },
   "adminBot": [
-    "61558762813083",
+    "61579457715798",
     ""
   ],
   "DEV": [
@@ -35,8 +35,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "",
-  "prefix": "*",
+  "nickNameBot": "Luupuuufata",
+  "prefix": ",",
   "autoSetNickname": true,
   "authorFB": "https://www.facebook.com/profile.php?id=61558762813083",
   "authorName": "Lelouch_VI",
